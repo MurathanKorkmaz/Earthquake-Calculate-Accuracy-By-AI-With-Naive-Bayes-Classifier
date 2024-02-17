@@ -1,0 +1,8 @@
+- Bu projenin amacı Deprem verilerini kullanıp deprem yüzdesini test etmektir. Test ettikten sonra yanlış sonucunu veren datasetlerini bir kez daha kullanıcının isteğine göre kontrol edip başarı oranını yeniden hesaplar. 
+
+
+- Kod dosyası içerisinde bulunan alttaki kod satırında dosya yolu sizin bilgisayarınız konumuna göre değişebilir o yüzden dosya yolunuzu parantez içerisinde tırnak işareti arasına yazarsanız hata almazsınız.
+Örneğin;
+VeriSet = pd.read_csv("C:/Users/Murathan/Documents/OKUL/3.sınıf/Zeki Sistemler/7.Naive Bayes Classifier/Veri_Seti/earthquake_1995-2023.csv")
+
+
